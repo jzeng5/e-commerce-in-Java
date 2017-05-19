@@ -1,7 +1,7 @@
 <?php
 $servername = "sylvester-mccoy-v3";
-$username = "inf124grp33";
-$password = "pux=C2ur";
+$username = "";
+$password = "";
 try {
     $conn = new PDO("mysql:host=$servername;dbname=inf124grp33", $username, $password);
     // set the PDO error mode to exception
