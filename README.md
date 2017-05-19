@@ -26,4 +26,5 @@ Features include, but not limited to: making orders, deleting orders, tracking i
 8. JSP
 9. Mysql
 
-# Credits to: Jessica Zeng,Chen Lu Yeiji Song, Misook Sohn
+# Credits to:
+Jessica Zeng,Chen Lu Yeiji Song, Misook Sohn
