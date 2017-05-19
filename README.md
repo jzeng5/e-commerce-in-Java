@@ -11,11 +11,11 @@ e-device website is a e-commerce java web application.
 # To acess with full function
 URL: andromeda-33.ics.uci.edu:5634/Homepage.html
   
-# Introduction: 
+# Introduction
 This is a fully functioning eCommerce website featuring in selling laptops, tablets and cellphones. 
 Features include, but not limited to: making orders, deleting orders, tracking inventory, tracking online customer activities. 
 
-# Technology used: 
+# Technology used
 1. Java Servelet 
 2. Ajax
 3. PHP
@@ -26,5 +26,5 @@ Features include, but not limited to: making orders, deleting orders, tracking i
 8. JSP
 9. Mysql
 
-# Credits to:
-Jessica Zeng,Chen Lu Yeiji Song, Misook Sohn
+# Author
+Jessica Zeng,Chen Lu,Yeiji Song, Misook Sohn
